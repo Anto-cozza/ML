@@ -1,0 +1,1 @@
+pip install streamlit yfinance pandas numpy scikit-learn matplotlib seaborn requests beautifulsoup4 feedparser textblob transformers torch
